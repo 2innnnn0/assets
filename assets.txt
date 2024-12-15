@@ -1,0 +1,28 @@
+Video Assets
+- https://gist.github.com/jsturgis/3b19447b304616f18657
+- http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 (9:56)
+- http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4 (0:15)
+BigBuckBunny 9:56
+ElephantsDream 10:53
+ForBiggerBlazes 0:15
+ForBiggerEscapes 0:15
+ForBiggerFun 1:00
+ForBiggerJoyrides 0:15
+ForBiggerMeltdowns 0:15
+Sintel 14:47
+SubaruOutbackOnStreetAndDirt 9:54
+TearsOfSteel 12:14
+VolkswagenGTIReview 9:53
+WeAreGoingOnBullrun 0:47
+WhatCarCanYouGetForAGrand: 9:27
+
+
+Image Assets
+- https://github.com/yavuzceliker/sample-images/tree/main/images
+- https://github.com/yavuzceliker/sample-images/blob/main/images/image-1.jpg
+- https://github.com/yavuzceliker/sample-images/blob/main/images/image-2.jpg
+..
+
+- https://github.com/IQAndreas/sample-images/blob/gh-pages/100-100-color/00.jpg
+- https://github.com/IQAndreas/sample-images/blob/gh-pages/100-100-color/01.jpg
+..
