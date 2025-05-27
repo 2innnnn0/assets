@@ -1,0 +1,182 @@
+[
+  {
+    "reviewId": "R001",
+    "productName": "무선 블루투스 이어폰",
+    "rating": 5,
+    "text": "음질이 정말 좋아요 배송도 빠르고 가격 대비 성능이 훌륭합니다 추천합니다"
+  },
+  {
+    "reviewId": "R002", 
+    "productName": "스마트폰 케이스",
+    "rating": 4,
+    "text": "디자인이 예쁘고 보호력도 좋네요 다만 조금 두꺼운 감이 있어요"
+  },
+  {
+    "reviewId": "R003",
+    "productName": "노트북 파우치",
+    "rating": 5,
+    "text": "품질이 좋고 가격도 합리적이에요 배송 빨라서 만족합니다"
+  },
+  {
+    "reviewId": "R004",
+    "productName": "무선 마우스",
+    "rating": 3,
+    "text": "성능은 괜찮은데 배터리 소모가 좀 빨라요 가격은 저렴해서 좋습니다"
+  },
+  {
+    "reviewId": "R005",
+    "productName": "키보드",
+    "rating": 5,
+    "text": "타이핑 감이 정말 좋아요 소음도 적고 디자인도 깔끔합니다 강력 추천"
+  },
+  {
+    "reviewId": "R006",
+    "productName": "충전기",
+    "rating": 4,
+    "text": "충전 속도가 빠르고 품질이 좋네요 가격 대비 만족스럽습니다"
+  },
+  {
+    "reviewId": "R007",
+    "productName": "스피커",
+    "rating": 5,
+    "text": "음질이 최고예요 디자인도 세련되고 배송도 빨랐습니다 추천합니다"
+  },
+  {
+    "reviewId": "R008",
+    "productName": "휴대폰 거치대",
+    "rating": 4,
+    "text": "안정성이 좋고 각도 조절이 편해요 가격도 저렴하고 품질 만족"
+  },
+  {
+    "reviewId": "R009",
+    "productName": "보조배터리",
+    "rating": 5,
+    "text": "용량이 크고 충전 속도도 빨라요 디자인 깔끔하고 성능 좋습니다"
+  },
+  {
+    "reviewId": "R010",
+    "productName": "모니터",
+    "rating": 5,
+    "text": "화질이 선명하고 색감이 좋아요 가격 대비 성능이 훌륭합니다 추천"
+  },
+  {
+    "reviewId": "R011",
+    "productName": "웹캠",
+    "rating": 4,
+    "text": "화질 좋고 설치 간단해요 가격도 합리적이고 배송 빨라서 만족"
+  },
+  {
+    "reviewId": "R012",
+    "productName": "USB 허브",
+    "rating": 3,
+    "text": "기능은 좋은데 발열이 조금 있어요 가격은 저렴해서 괜찮습니다"
+  },
+  {
+    "reviewId": "R013",
+    "productName": "마우스 패드",
+    "rating": 5,
+    "text": "크기도 적당하고 재질이 부드러워요 디자인 예쁘고 품질 좋습니다"
+  },
+  {
+    "reviewId": "R014",
+    "productName": "노트북 쿨러",
+    "rating": 4,
+    "text": "냉각 효과 좋고 소음도 적어요 가격 대비 성능 만족스럽습니다"
+  },
+  {
+    "reviewId": "R015",
+    "productName": "태블릿 케이스",
+    "rating": 5,
+    "text": "보호력 좋고 디자인도 깔끔해요 배송 빠르고 품질 훌륭합니다"
+  },
+  {
+    "reviewId": "R016",
+    "productName": "이어폰",
+    "rating": 4,
+    "text": "음질 좋고 착용감도 편해요 가격 저렴하고 성능 만족합니다"
+  },
+  {
+    "reviewId": "R017",
+    "productName": "스마트워치 밴드",
+    "rating": 3,
+    "text": "착용감은 좋은데 내구성이 조금 아쉬워요 가격은 합리적입니다"
+  },
+  {
+    "reviewId": "R018",
+    "productName": "블루투스 스피커",
+    "rating": 5,
+    "text": "음질 최고이고 배터리 오래가요 디자인 좋고 성능 훌륭합니다 추천"
+  },
+  {
+    "reviewId": "R019",
+    "productName": "무선 충전패드",
+    "rating": 4,
+    "text": "충전 빠르고 발열 적어요 디자인 깔끔하고 가격 대비 좋습니다"
+  },
+  {
+    "reviewId": "R020",
+    "productName": "게이밍 헤드셋",
+    "rating": 5,
+    "text": "음질 좋고 마이크 성능도 훌륭해요 착용감 편하고 추천합니다"
+  },
+  {
+    "reviewId": "R021",
+    "productName": "케이블",
+    "rating": 4,
+    "text": "품질 좋고 길이도 적당해요 가격 저렴하고 배송 빨라서 만족"
+  },
+  {
+    "reviewId": "R022",
+    "productName": "스마트폰 액세서리",
+    "rating": 3,
+    "text": "기능은 괜찮은데 설치가 조금 복잡해요 가격은 합리적입니다"
+  },
+  {
+    "reviewId": "R023",
+    "productName": "노트북 스탠드",
+    "rating": 5,
+    "text": "각도 조절 편하고 안정성 좋아요 디자인 깔끔하고 품질 훌륭"
+  },
+  {
+    "reviewId": "R024",
+    "productName": "프린터",
+    "rating": 4,
+    "text": "인쇄 품질 좋고 속도도 빨라요 가격 대비 성능 만족스럽습니다"
+  },
+  {
+    "reviewId": "R025",
+    "productName": "외장하드",
+    "rating": 5,
+    "text": "용량 크고 속도 빨라요 디자인 좋고 품질 훌륭합니다 추천"
+  },
+  {
+    "reviewId": "R026",
+    "productName": "무선 키보드",
+    "rating": 4,
+    "text": "타이핑 좋고 배터리 오래가요 디자인 깔끔하고 성능 만족"
+  },
+  {
+    "reviewId": "R027",
+    "productName": "모니터 암",
+    "rating": 3,
+    "text": "조립이 조금 복잡하지만 완성하면 좋아요 가격은 적당합니다"
+  },
+  {
+    "reviewId": "R028",
+    "productName": "컴퓨터 케이스",
+    "rating": 5,
+    "text": "공간 넓고 쿨링 좋아요 디자인 멋지고 품질 훌륭합니다"
+  },
+  {
+    "reviewId": "R029",
+    "productName": "그래픽카드",
+    "rating": 5,
+    "text": "성능 최고이고 발열 관리도 좋아요 가격 대비 훌륭합니다 추천"
+  },
+  {
+    "reviewId": "R030",
+    "productName": "SSD",
+    "rating": 4,
+    "text": "속도 빠르고 용량도 충분해요 품질 좋고 가격 합리적입니다"
+  }
+]
